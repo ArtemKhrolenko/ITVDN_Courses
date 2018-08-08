@@ -5,9 +5,21 @@ VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ITVDN_Courses", "ITVDN_Courses\ITVDN_Courses.shproj", "{6B1338C5-8893-4A84-B0CD-3294CBF13375}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{D64384FC-26F4-4C83-8284-9DBD68CD8992}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		ITVDN_Courses\ITVDN_Courses.projitems*{6b1338c5-8893-4a84-b0cd-3294cbf13375}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64384FC-26F4-4C83-8284-9DBD68CD8992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64384FC-26F4-4C83-8284-9DBD68CD8992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64384FC-26F4-4C83-8284-9DBD68CD8992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64384FC-26F4-4C83-8284-9DBD68CD8992}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
