@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ITVDN_Courses", "ITVDN_Courses\ITVDN_Courses.shproj", "{6B1338C5-8893-4A84-B0CD-3294CBF13375}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ITVDN_Courses\ITVDN_Courses.projitems*{6b1338c5-8893-4a84-b0cd-3294cbf13375}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5B6BA27-9518-41B2-B91A-5FEED97969BA}
+	EndGlobalSection
+EndGlobal
